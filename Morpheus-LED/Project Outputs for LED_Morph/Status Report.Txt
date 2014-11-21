@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LED_Morph.PrjPcb]
+   Generated File[Morpheus_LED.GTL]
+   Generated File[Morpheus_LED.G1]
+   Generated File[Morpheus_LED.G2]
+   Generated File[Morpheus_LED.GBL]
+   Generated File[Morpheus_LED.GPB]
+   Generated File[Morpheus_LED.GPT]
+   Generated File[Morpheus_LED.GTO]
+   Generated File[Morpheus_LED.GTP]
+   Generated File[Morpheus_LED.GTS]
+   Generated File[Morpheus_LED.GBS]
+   Generated File[Morpheus_LED.GBP]
+   Generated File[Morpheus_LED.GBO]
+   Generated File[Morpheus_LED.GKO]
+   Generated File[Morpheus_LED.GD1]
+   Generated File[Morpheus_LED.GG1]
+   Generated File[Morpheus_LED.RUL]
+   Generated File[Morpheus_LED.EXTREP]
+   Generated File[Morpheus_LED.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 9:40:26 PM On 11/17/2014
