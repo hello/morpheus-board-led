@@ -1,8 +1,10 @@
 <<<<<<< HEAD
 morpheus-board-led
 ==================
-
-=======
-morpheus-board-led_rev
->>>>>>> a4f798433c409dc711c8f2aa2c3d83439ec0e75c
-DVT Release of Morpheus LED Board (905-00006-04) on 11/17/2014. This release was sent to Jabil for the DVT build.
+Remove label (no need for Jabil to put it on)
+Updated part number 905-00006-05 (Update revised part number)
+Updated solder mask color registration within +/- 76um of circuit layer (production yield issue)
+Update FAB notes to specify IPC4101/126 and pre-approve ITEQ IT-180A material (From DVT EQs)
+Add date and DWG. No. (for documentation issue)
+Updated unspecified tolerance to +/- 0.1 (From DVT EQs)
+Updated the copyright message (Update for production)
