@@ -1,3 +1,0 @@
-Layer Pairs Export File for PCB: S:\Product\Morpheus\PCB_files_for_fab\DVT\905-00006_Morpheus_LED_DVT_altium_files\Morpheus_LED.PcbDoc
-LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=morpheus_led-plated.txt|LayerPairs=gtl,gbl
-LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=morpheus_led-nonplated.txt|LayerPairs=gtl,gbl
